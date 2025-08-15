@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Quiz Dogs</string>
+    <string name="dog_image_desc">Imagem do cachorro</string>
+</resources>
